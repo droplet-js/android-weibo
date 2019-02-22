@@ -1,5 +1,8 @@
 # android-weibo
 
+[![Build Status](https://cloud.drone.io/api/badges/v7lin/android-weibo/status.svg)](https://cloud.drone.io/v7lin/android-weibo)
+[ ![Download](https://api.bintray.com/packages/v7lin/maven/weibo-android/images/download.svg) ](https://bintray.com/v7lin/maven/weibo-android/_latestVersion)
+
 ### snapshot
 
 ````
