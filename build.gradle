@@ -82,6 +82,11 @@ allprojects {
         google()
         jcenter()
 
+        // weibo
+        maven {
+            url "https://dl.bintray.com/thelasterstar/maven/"
+        }
+
         maven {
             url 'https://oss.jfrog.org/artifactory/oss-snapshot-local'
         }
