@@ -35,6 +35,8 @@ steps:
   commands:
   - ./gradlew :weibo-android:clean :weibo-android:install :weibo-android:artifactoryPublish
   when:
+    branch:
+    - master
     event:
     - push
 
