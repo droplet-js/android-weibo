@@ -36,7 +36,7 @@ android {
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
 
-    api 'com.sina.weibo.sdk:core:4.3.4:openDefaultRelease@aar'
+    api "com.sina.weibo.sdk:core:${weiboVersion}:openDefaultRelease@aar"
 }
 
 apply from: '../publish.gradle'
